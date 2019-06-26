@@ -84,4 +84,10 @@ Please use stable buils below:
 
 You'll find the correct version here: https://apps.owncloud.com/content/show.php/roundcube?content=151523
 Scroll down and you see this:
-![roundcube_apps_owncloud_com](https://cloud.githubusercontent.com/assets/979121/8286163/59b48e74-1908-11e5-9444-cb472d2b2e5d.png)
+![roundcube_apps_owncloud_com](https://cloud.githubusercontent.com/assets/979121/8286163/59b48e74-1908-11e5-9444-
+cb472d2b2e5d.png)
+
+<a href="https://scan.coverity.com/projects/chawdamrunal-owncloud">
+  <img alt="Coverity Scan Build Status"
+       src="https://scan.coverity.com/projects/18673/badge.svg"/>
+</a>
